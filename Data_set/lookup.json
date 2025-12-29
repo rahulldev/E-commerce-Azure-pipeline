@@ -1,0 +1,22 @@
+[
+    {
+        "path_name": "olist_customers_dataset.csv",
+        "destination_name": "olist_customers_dataset.csv"
+    },
+    {
+        "path_name": "olist_geolocation_dataset.csv",
+        "destination_name": "olist_geolocation_dataset.csv"
+    },
+    {
+        "path_name": "olist_order_items_dataset.csv",
+        "destination_name": "olist_order_items_dataset.csv"
+    },
+    {
+        "path_name": "olist_order_payments_dataset.csv",
+        "destination_name": "olist_order_payments_dataset.csv"
+    },
+    {
+        "path_name": "olist_order_reviews_dataset.csv",
+        "destination_name": "olist_order_reviews_dataset.csv"
+    }
+]
